@@ -1,0 +1,43 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Thien Bui"
+theme = "pulp"
+enableEmoji = true
+publishdir = "./doc/"
+[params]
+    author = "Thien Bui"
+    avatar = "Thien.png"
+    favicon = "avatar.jpg"
+    description = """
+        Software Engineer in NSW, Australia
+    """
+    publicationYear = "2020"
+    listPageDateFormat = "January 2006"
+    singlePageDateFormat = "January 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+
+[outputs]
+    section = ["JSON", "HTML"]
+
+#[[menu.main]]
+#    identifier = "about"
+#    # name = "about"
+#    pre = "<i class='fa fa-user fa-lg'></i>"
+#    url = "/about/"
+#    weight = 10
+
+[[menu.main]]
+    identifier = "linkedin"
+    # name = "LinkedIn"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
+    url = "https://www.linkedin.com/in/ducthienbui/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/ducthienbui97"
+    weight = 30
