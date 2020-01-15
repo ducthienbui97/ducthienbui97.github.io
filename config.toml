@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Thien Bui"
 theme = "pulp"
 enableEmoji = true
-publishdir = "./docs/"
+publishdir = "."
 [params]
     author = "Thien Bui"
     avatar = "Thien.png"
