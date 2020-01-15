@@ -1,9 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://ducthienbui97.github.io/"
 languageCode = "en-us"
 title = "Thien Bui"
 theme = "pulp"
 enableEmoji = true
-publishdir = "./doc/"
+publishdir = "./docs/"
 [params]
     author = "Thien Bui"
     avatar = "Thien.png"

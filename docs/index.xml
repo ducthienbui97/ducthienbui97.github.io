@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thien Bui</title>
-    <link>http://example.org/</link>
+    <link>https://ducthienbui97.github.io/</link>
     <description>Recent content on Thien Bui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2020 22:02:43 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ducthienbui97.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://ducthienbui97.github.io/about/</link>
       <pubDate>Wed, 15 Jan 2020 22:02:43 +1100</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://ducthienbui97.github.io/about/</guid>
       <description></description>
     </item>
     
