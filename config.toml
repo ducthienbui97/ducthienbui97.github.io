@@ -9,7 +9,7 @@ publishdir = "."
     avatar = "Thien.png"
     favicon = "avatar.jpg"
     description = """
-        Software Engineer in NSW, Australia
+        Write about random stuffs online.
     """
     publicationYear = "2020"
     listPageDateFormat = "January 2006"
@@ -21,11 +21,11 @@ publishdir = "."
 [outputs]
     section = ["JSON", "HTML"]
 
-#[[menu.main]]
+# [[menu.main]]
 #    identifier = "about"
 #    # name = "about"
 #    pre = "<i class='fa fa-user fa-lg'></i>"
-#    url = "/about/"
+#    url = "/posts/"
 #    weight = 10
 
 [[menu.main]]
